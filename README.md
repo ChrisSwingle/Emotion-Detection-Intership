@@ -1,1 +1,4 @@
-# Emotion-Detection-Intership
+# LISA
+TODO:
+ -finish entry to database 
+ -ndashboard 

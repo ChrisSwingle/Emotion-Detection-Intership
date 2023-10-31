@@ -1,0 +1,13 @@
+plotly==4.9.0
+dash_pivottable==0.0.2
+ibm_cloud_sdk_core==3.3.1
+ibm_watson==4.7.1
+dash==1.15.0
+SoundFile==0.10.3.post1
+pydub==0.24.1
+dash_html_components==1.1.0
+librosa==0.8.0
+PyAudio==0.2.11
+dprint==0.1.0
+PyInstaller==4.2
+pandas==
